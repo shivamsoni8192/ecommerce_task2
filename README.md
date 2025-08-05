@@ -63,4 +63,6 @@ A populated and relationally consistent database ready for further queries, repo
 ## 📚 Author
 
 Shivam Soni  
-GitHub: [shivamsoni8192](https://github.com/shivamsoni8192)
+## 🔗 GitHub Repository Link
+
+[Click here to view the repository] https://github.com/shivamsoni8192/ecommerce_task2
